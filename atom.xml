@@ -38,20 +38,21 @@
   </entry>
   
   <entry>
-    <title>引言</title>
+    <title>Hello, World!!</title>
     <link href="http://yoursite.com/2018/02/19/%E5%BC%95%E8%A8%80/"/>
     <id>http://yoursite.com/2018/02/19/引言/</id>
     <published>2018-02-18T17:36:51.000Z</published>
-    <updated>2018-02-19T15:27:35.415Z</updated>
+    <updated>2018-02-19T17:02:58.736Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="為何寫BLOG"><a href="#為何寫BLOG" class="headerlink" title="為何寫BLOG"></a>為何寫BLOG</h3><p>在研究技術之餘，記錄我曾經走過的步伐。</p><p>希望日後再回來觀看的時候不會有各種吐槽…..</p>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>    <img src="https://cdn-images-1.medium.com/max/500/1*jB76MLZjiNhGSQQvxm7LSQ.gif" alt=""><br></div><h2 id=""><a href="#" class="headerlink" title=""></a><img src="https://cdn-images-1.medium.com/max/500/1*jB76MLZjiNhGSQQvxm7LSQ.gif" alt=""></h2><h3 id="為何寫BLOG"><a href="#為何寫BLOG" class="headerlink" title="為何寫BLOG"></a>為何寫BLOG</h3><p>在研究技術之餘，記錄我曾經走過的步伐。</p><p>希望日後再回來觀看的時候不會有各種吐槽…..</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ Hello World!!</span><br></pre></td></tr></table></figure><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;Hello World/&gt;</span><br></pre></td></tr></table></figure><font color="green" size="5" face="黑体">Hello World</font>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;為何寫BLOG&quot;&gt;&lt;a href=&quot;#為何寫BLOG&quot; class=&quot;headerlink&quot; title=&quot;為何寫BLOG&quot;&gt;&lt;/a&gt;為何寫BLOG&lt;/h3&gt;&lt;p&gt;在研究技術之餘，記錄我曾經走過的步伐。&lt;/p&gt;
-&lt;p&gt;希望日後再回來觀看的時候不會有各種吐槽…..&lt;
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;    &lt;img src=&quot;https://cdn-images-1.medium.com/max/500/1*jB76MLZjiNhGSQQvxm7LSQ.gif&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;&quot;&gt;&lt;a 
       
     
     </summary>
