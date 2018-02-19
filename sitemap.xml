@@ -4,7 +4,14 @@
   <url>
     <loc>http://yoursite.com/categories/index.html</loc>
     
-    <lastmod>2018-02-19T14:12:07.046Z</lastmod>
+    <lastmod>2018-02-19T14:34:17.931Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2018-02-19T14:33:36.078Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>http://yoursite.com/tags/index.html</loc>
     
     <lastmod>2018-02-19T13:20:41.673Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    
-    <lastmod>2018-02-19T13:01:52.838Z</lastmod>
     
   </url>
   
